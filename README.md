@@ -1,4 +1,4 @@
-# Infant food recipes (幼児食レシピ)
+# Infant Food Recipes (幼児食レシピ) IFR
 
 ## サイト概要
 ### サイトテーマ
